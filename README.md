@@ -1,5 +1,5 @@
 # Schema, vecka 15
-###### JavaScript, vecka 3 av 7
+###### Frontendramverk, vecka 3 av 7
 
 ## Introduktion
 
