@@ -46,7 +46,9 @@ Genom att kombinera dessa tekniker kan vi bygga kraftfulla och användarvänliga
 
 ### Övningar 
 
-
+* [Router Bootcamp](https://github.com/fu-react-fe24/week-15-exercise-router-bootcamp)
+* [API Bootcamp](https://github.com/fu-react-fe24/week-15-exercise-api-bootcamp)
+* [Book Store del 3](https://github.com/fu-react-fe24/week-15-exercise-routing-bookstore) - veckans Code Review-uppgift!
 
 
 
